@@ -1,6 +1,8 @@
 # Hostel Initiative
 
-A system built for hostel accommodation allocation for Obafemi Awolowo University students to connect students with the right accommodation in Ile-Ife, Osun State, Nigeria..
+A system built for hostel accommodation allocation for San Jose State University students to connect students with the right accommodation in San Jose , California..
+
+***Project Report,Demo and Presentation (272 Folder) Link*** : [https://drive.google.com/drive/u/0/folders/1LlZuT61sLEn88sAnWvpU1R7vfpnZ3MyG]
 
 ## Installation: Get Started
 
